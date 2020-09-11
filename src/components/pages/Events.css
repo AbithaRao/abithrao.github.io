@@ -1,0 +1,98 @@
+.Event-each1{
+    background: #fff; 
+    padding-bottom: 10%;
+    }
+
+.event-img1 {
+    position: relative;
+    width: 400px;
+    height: 400px; 
+    margin-left: 10%;
+    margin-right: 10%;
+    float: right;
+}
+
+.desc1 {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 60px;
+    
+    font-size: 20px;
+    
+}
+
+.Event-each2{
+    background: #fff; 
+    padding-bottom: 10%;
+    }
+
+.event-img2 {
+    position: relative;
+    width: 400px;
+    height: 400px; 
+    margin-left: 10%; 
+    margin-right: 10%;
+    float: left;
+}
+
+.desc2 {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 60px;
+    font-size: 20px;
+    
+}
+
+.end {
+    padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 786px) {
+    .Event-each1{
+        background: #fff; 
+        padding-bottom: 20%;
+        }
+    
+    .event-img1 {
+        position: relative;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    
+    .desc1 {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 60px;
+        padding-bottom: 10%;
+        font-size: 20px;
+    }
+    
+    .Event-each2{
+    background: #fff; 
+    padding-bottom: 20%;
+    }
+    
+    .event-img2 {
+        position: relative;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    
+    .desc2 {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 60px;
+        padding-bottom: 10%;
+        font-size: 20px;
+        
+    }
+    
+    .end {
+        padding-bottom: 20px;
+    }
+    
+}
+
+

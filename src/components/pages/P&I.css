@@ -1,0 +1,101 @@
+.pai-each1{
+    background: #fff; 
+    padding-bottom: 10%;
+    }
+
+.pai-img1 {
+    position: relative;
+    width: 400px;
+    height: 400px; 
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    float: right;
+}
+
+.pdesc1 {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 60px;
+    padding-bottom: 10%;
+    font-size: 20px;
+    
+}
+
+.pai-each2{
+    background: #fff; 
+    padding-bottom: 10%;
+    }
+
+.pai-img2 {
+    position: relative;
+    width: 400px;
+    height: 400px; 
+    margin-left: 10%; 
+    margin-right: 10%;
+    margin-bottom: 10%;
+    float: left;
+}
+
+.pdesc2 {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 60px;
+    padding-bottom: 10%;
+    font-size: 20px;
+    
+}
+
+.end {
+    padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 786px) {
+    .pai-each1{
+        background: #fff; 
+        padding-bottom: 20%;
+        }
+    
+    .pai-img1 {
+        position: relative;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    
+    .pdesc1 {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 60px;
+        padding-bottom: 10%;
+        font-size: 20px;
+    }
+    
+    .pai-each2{
+    background: #fff; 
+    padding-bottom: 20%;
+    }
+    
+    .pai-img2 {
+        position: relative;
+        width: 100%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+    
+    .pdesc2 {
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 60px;
+        padding-bottom: 10%;
+        font-size: 20px;
+        
+    }
+    
+    .end {
+        padding-bottom: 20px;
+    }
+    
+}
+
+
